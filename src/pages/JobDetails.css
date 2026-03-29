@@ -1,0 +1,98 @@
+.job-details {
+  min-height: 100vh;
+  padding: 50px 20px;
+  background: radial-gradient(circle at top, #1e293b, #020617);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.job-container {
+  width: 100%;
+  max-width: 600px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.job-container h1 {
+  color: #6366f1;
+}
+
+.job-container p {
+  margin: 10px 0;
+}
+
+.form-title {
+  margin-top: 20px;
+}
+
+form input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: none;
+  background: rgba(255,255,255,0.1);
+  color: white;
+}
+
+form button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(45deg, #6366f1, #ec4899);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.success {
+  color: #22c55e;
+  margin-top: 15px;
+}
+
+input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background: rgba(255,255,255,0.1);
+  border-radius: 8px;
+  color: white;
+}
+
+.job-meta {
+  display: flex;
+  gap: 15px;
+  margin: 10px 0;
+  flex-wrap: wrap;
+}
+
+.company {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.badge {
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: rgba(99,102,241,0.2);
+  color: #6366f1;
+  font-size: 12px;
+}
+
+.posted {
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+ul {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+ul li {
+  margin: 5px 0;
+}
