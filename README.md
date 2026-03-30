@@ -1,20 +1,55 @@
-<<<<<<< HEAD
-# React + Vite
+# 💼 QuickHire — Finds Job Easily
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A sleek, modern job portal built with React that helps users discover and apply for jobs effortlessly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ About The Project
 
-## React Compiler
+QuickHire is designed to simulate a **real-world job platform experience** with clean UI, smooth navigation, and practical features like job search and application flow.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+It focuses on **user experience + product thinking**, not just UI.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# quickhire-job-portal
->>>>>>> de69d88604c941502b2d0326e2f3e5ee75ea93c4
+## ⚡ Key Highlights
+
+🚀 Fast & responsive job search  
+📍 Location-based filtering  
+🧾 Detailed job view with structured info  
+📄 Resume upload system  
+🎨 Modern dark UI with glassmorphism  
+🔗 Smooth navigation using React Router  
+
+---
+
+## 🖥️ Preview
+
+👉 Live Demo: *https://quickhire-job-portal-xi.vercel.app/*  
+
+---
+
+## 🧠 Core Functionality
+
+- Browse jobs across multiple categories  
+- View detailed job descriptions  
+- Apply with user details + resume upload  
+- Navigate between pages seamlessly  
+- Clean and intuitive UI design  
+
+---
+
+## 🛠 Built With
+
+- React (Vite)
+- React Router DOM
+- JavaScript (ES6+)
+- CSS (Custom UI)
+
+---
+
+## 📸 Screenshots
+
+| 🏠 Home Page | 📋 Job Listings | 📄 Job Details |
+|-------------|----------------|----------------|
+| ![](./screenshots/home.png) | ![](./screenshots/jobs.png) | ![](./screenshots/details.png) |
