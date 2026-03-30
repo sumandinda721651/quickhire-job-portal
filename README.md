@@ -50,6 +50,6 @@ It focuses on **user experience + product thinking**, not just UI.
 
 ## 📸 Screenshots
 
-| 🏠 Home Page | 📋 Job Listings | 📄 Job Details |
-|-------------|----------------|----------------|
-| ![](./screenshots/home.png) | ![](./screenshots/jobs.png) | ![](./screenshots/details.png) |
+| 🏠 Home | 📋 Jobs | 📄 Details |
+|--------|--------|------------|
+| ![](./src/screenshots/home.png) | ![](./src/screenshots/jobs.png) | ![](./src/screenshots/details.png) |
